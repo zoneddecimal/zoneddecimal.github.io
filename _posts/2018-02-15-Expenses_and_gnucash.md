@@ -14,7 +14,9 @@ In my examples I will be using the free gnucash accounting software.  If you wou
 
 Let's assume we are tracking our monthly expenses.  We will list every single expense (whether paid by debit, credit, cash, direct bill payment, etc) for the month, and categorize the the way we choose.
 
-![img here](https://github.com/zoneddecimal/zoneddecimal.github.io/images/Screenshot_2018-02-15_20-21-04.png "Example expenses")
+{:refdef: style="text-align: center;"}
+![image](/images/Screenshot_2018-02-15_20-21-04.png)
+{: refdef}
 
 In gnucash, you can add an expense category by going to Actions->New Account, and selecting an Account Type of 'Expense'.  Make sure to also add a name to the account, and the parent account (the top level account should simply be 'Expenses').
 
@@ -28,6 +30,8 @@ For this part, I categorized my expenses based on how I will be allocating funds
 
 gnucash is a double entry type of accounting software, meaning that each transaction that you enter must be recorded in at least two accounts.  Practically speaking, you can think of this as money must come from somewhere (i.e. an asset like a bank account) and it must go somewhere (i.e. an expense, like groceries).  For now, we will have two basic types of parent accounts - an expense account (as we just setup), and an income account.  Let's setup the income account now, and add a sub-account called 'Paycheck'.  In gnucash, make sure to select an account type of 'Income' (this ensures that the column header names in each of the account ledgers has appropriate names).
 
-![img here](https://github.com/zoneddecimal/zoneddecimal.github.io/images/Screenshot_2018-02-15_20-37-40.png "Paycheck Account")
+{:refdef: style="text-align: center;"}
+![image](/images/Screenshot_2018-02-15_20-37-40.png)
+{: refdef}
 
 Now, open up the 'Paycheck' account.  Let's add an example transaction.  More on the next entry.

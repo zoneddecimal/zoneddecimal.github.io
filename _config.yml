@@ -27,8 +27,6 @@ url: "https://zoneddecimal.github.io" # the base hostname & protocol for your si
 github_username:  zoneddecimal
 
 # Build settings
-#theme: minima
-#theme: jekyll-theme-time-machine
 theme: jekyll-theme-midnight
 
 #show_downloads: "false"
@@ -52,7 +50,6 @@ plugins:
 # their entries' file path in the `include:` list.
 #
 exclude:
-  - images/
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/
