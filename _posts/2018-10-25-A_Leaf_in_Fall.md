@@ -1,9 +1,9 @@
 ---
 layout: post
 title: A Leaf in Fall
-category: Photography
+category: Photoblog
 ---
 
-![image](/images/_DSF1325-5x7.jpg)
+![image](/images/DSF1325-5x7.jpg)
 
 
