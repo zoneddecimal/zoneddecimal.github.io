@@ -1,19 +1,22 @@
 <!doctype html>
 <html lang="{{ site.lang | default: "en-US" }}">
+  <link rel="stylesheet" href="{{ '/css/style.css' }}">
+  <header>
+  </header>
   <body>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' }}">
     <div class="wrapper">
       <section>
         <div id="title">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <p>{{ site.description | default: site.github.project_tagline }}</p>
+          <span class="credits left">About <a href="{{ site.url }}/about">{{ site.github.owner_name }}</a></span>
         </div>
 	<hr>
         {{ content }}
 	<br>
         <hr>
-        <div id="title">
-          <span class="credits left">blog maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
+        <div id="footer">
+          <span class="credits left">github <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
           <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
 	</div>
       </section>
