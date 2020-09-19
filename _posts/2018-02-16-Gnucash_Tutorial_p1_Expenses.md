@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Expenses, and gnucash
+title: Gnucash tutorial part 1 - Expenses
 category: PersonalFinance
 ---
 
