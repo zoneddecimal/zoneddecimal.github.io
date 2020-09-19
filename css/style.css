@@ -274,6 +274,10 @@ section #footer p { color: #d7cfbe; font-family: 'OpenSansLight', "Helvetica Neu
 section #footer .credits { font-size: 11px; font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif; font-weight: normal; color: #696969; margin-top: -10px; }
 section #footer .credits.left { float: left; }
 section #footer .credits.right { float: right; }
+section #nav .credits.left { float: left; }
+section #nav .credits.right { float: right; }
+
+div #title h1 a { color: White; }
 
 @media print, screen and (max-width: 720px) { #footer #title .credits { display: block; width: 100%; line-height: 30px; text-align: center; }
   #footer #title .credits .left { float: none; display: block; }
