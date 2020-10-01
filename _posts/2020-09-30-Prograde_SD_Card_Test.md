@@ -136,7 +136,7 @@ So I ran another quick test with the B card and the PNY card that read a single 
 
 The read speeds into the tempfs filesystem are definitely much faster.  Curiously, the Prograde card still doesn't get close to the rated 300MB/s speed.  The PNY card performs adequately.
 
-I think I can be fairly confident that these cards are not fakes.  The capacity is there, and the write and read speeds are sufficiently high that it is highly doubtful that scammers would use such quality SD cards.  That being said, there are still some questions that have been raised.  Perhaps these can be answered in another experiment.
+I think I can be fairly confident that these cards are not fakes.  The capacity is there, and the write and read speeds are sufficiently high that it is highly doubtful that scammers would use such quality SD cards.  That being said I still haven't determined why the Prograde cards trigger an error in the XT-3.  Also there are some questions that have been raised.  Perhaps these can be answered in another experiment.
 
 1. Why is there the difference in read and write speeds between the two Prograde cards?
 1. Why doesn't the Prograde B card read speed go any higher than 216.3 MB/s?
