@@ -22,7 +22,7 @@ email: "jshimoda@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   A blog about things.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://zoneddecimal.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.jshimoda.ca" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: none
 github_username:  zoneddecimal
 
